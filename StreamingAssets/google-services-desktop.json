@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "395866147110",
+    "firebase_url": "https://into-the-vortex.firebaseio.com",
+    "project_id": "into-the-vortex",
+    "storage_bucket": "into-the-vortex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395866147110:android:98f7ea6fef6cb2d3b619e7",
+        "android_client_info": {
+          "package_name": "com.DesolateSole.IntoTheVortex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395866147110-kg2aioknutnm4ctq8jsq5seeo6knbrmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4uc_NuuvRk8Az9A_7nERcScjIcrXHErk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395866147110-kg2aioknutnm4ctq8jsq5seeo6knbrmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
