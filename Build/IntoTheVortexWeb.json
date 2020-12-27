@@ -1,7 +1,7 @@
 {
 "companyName": "DesolateSole",
 "productName": "IntoTheVortex",
-"productVersion": "1.1",
+"productVersion": "1.2",
 "dataUrl": "IntoTheVortexWeb.data.unityweb",
 "wasmCodeUrl": "IntoTheVortexWeb.wasm.code.unityweb",
 "wasmFrameworkUrl": "IntoTheVortexWeb.wasm.framework.unityweb",
